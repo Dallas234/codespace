@@ -1,10 +1,9 @@
 
-# ask user for name
+# ask user for name captialize and remove space
 
-name = input("Whats's your name? " )
+name = input("Whats's your name? " ).strip().title()
 
-#remove whitespace from string and capitalize users name
-name = name.strip().title()
+
 
 
 #print users name
