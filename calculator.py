@@ -1,6 +1,6 @@
 x = input("First number ")
 y = input("Second number ")
 
-z = (x+y)
+z = int(x) + int(y)
 
 print(z)
