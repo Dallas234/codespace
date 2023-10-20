@@ -3,4 +3,4 @@ y = float(input("Second number "))
 
 z = round(x + y)
 
-print(z)
+print(f"{z}")
