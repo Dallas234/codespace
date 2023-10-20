@@ -1,3 +1,7 @@
+def hello():
+    
+
+
 name = input("What's your name? ")
-def hello()
+hello()
 print(name)
