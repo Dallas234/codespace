@@ -1,2 +1,7 @@
+
+# ask user for name
 name = input("Whats's your name? " )
-print("Hello, ", name)
+#remove whitespace from string
+name = name.strip
+#print users name
+print(f"Hello, ", name)
