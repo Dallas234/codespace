@@ -1,5 +1,5 @@
-x = int (input("First number "))
-y = int(input("Second number "))
+x = float(input("First number "))
+y = float(input("Second number "))
 
 
 
