@@ -3,4 +3,4 @@ y = int(input("Second number "))
 
 
 
-print(z)
+print(x+y)
