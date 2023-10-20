@@ -3,4 +3,4 @@ y = float(input("Second number "))
 
 z = x / y
 
-print(z)
+print(f"{z:.2f}")
