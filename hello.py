@@ -1,4 +1,4 @@
-def hello(to):
+def hello(to="World"):
     print("hello", to)
 
 
